@@ -8,6 +8,10 @@ Python 3.10 or later<br>
 Pillow
 
 # Setup
-Put LVAToolkit.py and the included folders ("outputs" and "temp") into a folder somewhere<br>
-Download FFMpeg: https://www.ffmpeg.org/download.html<br>
-Put ffmpeg.exe in the same folder as LVAToolkit.py
+Put LVAToolkit.py into a folder somewhere<br>
+In the same folder as LVAToolkit.py, create a new folder called "outputs"<br>
+Again, in the same folder as LVAToolkit.py, create another folder called "temp"<br>
+Inside of the temp folder, put 2 more folders named "diffcheck" and "frames"<br>
+Download FFmpeg: https://www.ffmpeg.org/download.html<br>
+Put ffmpeg.exe in the same folder as LVAToolkit.py<br>
+Start the program by running LVAToolkit.py
