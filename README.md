@@ -9,5 +9,5 @@ Pillow
 
 # Setup
 Put LVAToolkit.py and the included folders ("outputs" and "temp") into a folder somewhere<br>
-Download FFMpeg: https://www.ffmpeg.org/download.html
+Download FFMpeg: https://www.ffmpeg.org/download.html<br>
 Put ffmpeg.exe in the same folder as LVAToolkit.py
