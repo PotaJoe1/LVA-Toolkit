@@ -6,3 +6,6 @@ Other instructions can be found in the program itself via the "help" option on t
 # Package Requirements
 Python 3.10 or later<br>
 Pillow
+
+# Setup
+Put LVAToolkit.py and the included folders ("outputs" and "temp") into a folder somewhere. You can start the program by opening LVAToolkit.py
