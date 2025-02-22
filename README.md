@@ -8,4 +8,6 @@ Python 3.10 or later<br>
 Pillow
 
 # Setup
-Put LVAToolkit.py and the included folders ("outputs" and "temp") into a folder somewhere. You can start the program by opening LVAToolkit.py
+Put LVAToolkit.py and the included folders ("outputs" and "temp") into a folder somewhere<br>
+Download FFMpeg: https://www.ffmpeg.org/download.html
+Put ffmpeg.exe in the same folder as LVAToolkit.py
